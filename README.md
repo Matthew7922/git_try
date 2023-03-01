@@ -11,7 +11,8 @@ This new article is for testing
 Typing all the words in this file
 
 #Results
-This result only show in remote one
+This result show in both side
+We need a try
 
 #Reference
 1. NTUH, Neuro, 2023
