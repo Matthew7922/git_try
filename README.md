@@ -15,7 +15,10 @@ This result show in both side
 We need a try
 
 #Debate
-I don't have conclusion now
+There's still some limitation
+
+#Conclusion
+Good_try
 
 #Reference
 1. NTUH, Neuro, 2023
