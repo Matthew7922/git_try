@@ -14,6 +14,9 @@ Typing all the words in this file
 This result show in both side
 We need a try
 
+#Debate
+I don't have conclusion now
+
 #Reference
 1. NTUH, Neuro, 2023
 2. CGMH, Cardio, 1990
